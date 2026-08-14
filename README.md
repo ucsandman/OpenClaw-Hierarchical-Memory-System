@@ -82,3 +82,10 @@ All token-efficient. All complementary.
 4. Don't skip drill-downs. Loading a file is cheaper than a wrong assumption.
 
 I'm pumped about this. Build it on your end and let me know when it's live.
+
+## Support
+
+If my tools save you time, you can support my work here:
+
+[![Sponsor on GitHub](https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ucsandman)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-ffdd00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/wes_sander)
