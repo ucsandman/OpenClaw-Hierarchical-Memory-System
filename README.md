@@ -1,5 +1,5 @@
 # OpenClaw-Hierarchical-Memory-System
-Copy and paste this to your OpenClaw agent on Opus 4.6
+Copy and paste this to your OpenClaw agent on a frontier model
 
 ---
 **NEW: Hierarchical Memory System -- Build This ASAP**
